@@ -5,7 +5,9 @@ __A *later to be* Free Open Source File Explorer for Windows, Linux, *maybe* Mac
 
 Currently only for fun, I am one girl making something in my freetime, feel free to tell me about anything i could be doing better or if there's something wrong.
 
-My intention is to keep all code in rust, my reasoning for this is possibly irrational but i feel every explorer being made in C or C# might be a mistake. My reason for using rust is basically to try to make something that isn't already out there. if you want something in C use the basic windows explorer, Q-Dir or One Commander.
+My intention is to keep all code in rust
+my reasoning for this is possibly irrational but i feel every explorer being made in C or C# might be limiting them. My reason for using rust is basically to try to make something that isn't already out there and rust is potentially a very good language for something like this.
+if you want something in C use the basic windows explorer, Q-Dir or One Commander, these are all only on windows and honestly i don't think there are any really good file managers for linux, best one in my experience being dolphin.
 
 ## Thoughts 5/23/2024
 I have no commitment to this project yet, it is a simple idea with design elements which i want to exist. I have never used rust before but from what i've gathered it seems like a good alternative to C/C# like other file explorers before this one has done.
